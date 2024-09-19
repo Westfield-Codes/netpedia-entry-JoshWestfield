@@ -1,5 +1,36 @@
 html {
   height: 100%;
   width: 100%;
-  background-color: yellow;
+  background-color:  black;
+  
+}
+
+body{
+  color:white;
+}
+
+h3{
+	padding-left:25px;
+	text-decoration: underline overline 5px;
+}
+
+p{
+	padding-left:60px;
+}
+
+a:link{
+	color:#16b4e6;
+}
+
+a:visited{
+	color:#a84df8
+}
+
+#TitleImg{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	
+	padding-bottom:25px;
+	width:200px;
 }
